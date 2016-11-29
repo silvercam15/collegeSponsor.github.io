@@ -147,19 +147,19 @@ hr {
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	color: #fff;
-	background-color: #1D1145;
-	border-color: #1D1145;
+	background-color: #000000;
+	border-color: #000000;
 }
 .btn-primary {
 	color: #fff;
-	background-color: #1D1145;
+	background-color: #000000;
 	padding: 10px 20px;
 	border-color: #121d1f;
 	border-radius: 0;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
 	color: #fff;
-	background-color: #7bc3d1;
+	background-color: #E66C9E;
 	border-color: #7bc3d1;
 }
 .btn-primary i.fa {
